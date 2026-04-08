@@ -1,0 +1,11 @@
+# Decimal 42
+# Average FPS: 795.06
+# Average P1 (1% percentile): 332.58
+# Average 1% Low Avg FPS: 306.64
+
+Sample No,Driver,Average FPS,P1 (1% percentile),1% Low Avg FPS
+1,581.80,796.5,332.7,303.5
+2,581.80,795.6,334.0,309.0
+3,581.80,794.6,331.2,304.3
+4,581.80,794.3,332.5,307.2
+5,581.80,794.3,332.5,309.2
